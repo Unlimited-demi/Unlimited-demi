@@ -34,3 +34,4 @@ Welcome to my GitHub profile! I am Daniel Owen, a passionate data scientist with
 
 Feel free to explore my repositories to see the code and details of my projects. If you have any exciting opportunities or project ideas, please feel free to reach out to me via email.
 
+Unlimiteddemi@gmail.com
