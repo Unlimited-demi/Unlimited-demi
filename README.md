@@ -15,14 +15,8 @@ Welcome to my GitHub profile! I am Daniel Owen, a passionate data scientist with
 - SQL and database management 💾
 - Deep learning frameworks (TensorFlow, Keras, PyTorch) 🧠
 - Big data technologies (Hadoop, Spark) ☁️
-
-## Projects 💡
-
-1. **Twitter Analysis** 🐦🔍: Conducted sentiment analysis on Twitter data to understand public sentiment towards a specific topic or brand. Utilized the Twitter API to gather tweets, performed text preprocessing, and applied machine learning algorithms for sentiment classification.
-2. **Sentiment Analysis** 💬📉: Developed a sentiment analysis model to analyze customer reviews and classify them into positive, negative, or neutral sentiments. Explored various text processing techniques, such as tokenization, stemming, and TF-IDF vectorization, and trained a machine learning model for sentiment classification.
-3. **Cluster Analysis** 🌱📊: Applied cluster analysis techniques to segment customers based on their purchasing behavior. Utilized unsupervised learning algorithms, such as k-means clustering, and visualized the clusters to gain insights into customer segmentation and targeted marketing strategies.
-4. **Data Visualization** 📊🎨: Created interactive visualizations using Python libraries, such as Matplotlib and Plotly, to communicate complex data patterns effectively. Developed informative dashboards and interactive plots to present data insights in a visually appealing manner.
-5. **Fraud Detection** 🕵️‍♂️🔎: Developed a fraud detection model using machine learning algorithms to identify fraudulent transactions in financial data. Implemented anomaly detection techniques, such as isolation forest or one-class SVM, to detect unusual patterns and flag potential fraudulent activities.
+## Projects
+Please Check my Repo for my Projects.
 
 ## Work Experience 💼
 
