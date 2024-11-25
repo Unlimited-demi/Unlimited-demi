@@ -27,5 +27,5 @@ Please Check my Repo for my Projects.
 - Data Scientist Certification: 365Careers
 
 Feel free to explore my repositories to see the code and details of my projects. If you have any exciting opportunities or project ideas, please feel free to reach out to me via email.
-
+[![trophy](https://github-profile-trophy.vercel.app/?unlimited-demi=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 Unlimiteddemi@gmail.com
