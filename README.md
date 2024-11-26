@@ -28,5 +28,5 @@ Please Check my Repo for my Projects.
 
 Feel free to explore my repositories to see the code and details of my projects. If you have any exciting opportunities or project ideas, please feel free to reach out to me via email.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unlimited-demi)](https://github.com/anuraghazra/github-readme-stats)
 Unlimiteddemi@gmail.com
